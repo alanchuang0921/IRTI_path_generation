@@ -1,0 +1,14 @@
+<Gripper_Information Gripper_Count="3">
+  <Gripper_1 Name="Grip3075010"  Path="models/shing_hong project EZsim/model/Grip3075010.IGS"  Type="PART_TO_TOOL">
+  <Gripper_Pose rz="0" z="176" ry="0" rx="0" y="0" x="0"/>
+  <Color b="0.117" g="0.705" r="0.94"/>
+ </Gripper_1>
+   <Gripper_2 Name="GripD0920"  Path="models/shing_hong project EZsim/model/GripD0920.IGS"  Type="PART_TO_TOOL">
+  <Gripper_Pose rz="0" z="176" ry="0" rx="0" y="0" x="0"/>
+  <Color b="0.117" g="0.705" r="0.94"/>  
+ </Gripper_2>
+    <Gripper_3 Name="GripD0920_TiH"  Path="models/shing_hong project EZsim/model/GripD0920.IGS"  Type="TOOL_TO_PART">
+  <Gripper_Pose rz="0" z="176" ry="0" rx="0" y="0" x="0"/>
+  <Color b="0.117" g="0.705" r="0.94"/>  
+ </Gripper_3>
+</Gripper_Information>

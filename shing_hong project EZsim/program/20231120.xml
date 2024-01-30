@@ -1,0 +1,71 @@
+<?xml version = "1.4.7.12" encoding = "UTF-8"?>
+<System_Information Path_Count="1" Model_Count="5">
+ <Trajectory_0 Index_Count="1" Name="CL2-1">
+  <Contact_Point reference="Model3" x="-228.766" z="1103.88" rx="0" ry="89.7029" y="478.021" rz="90"/>
+  <Path_Param Retract_Length="-20" External_Axis_Num="0" External_Axis_Angle="0" Cutter_Depth="0" Engage_Length="-20" Cutter_Diameter="0"/>
+  <Index_0>
+   <Pose_0 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="14.2268" cry="0" crx="0" crz="0" ry="0" y="91.0171" rz="90"/>
+   <Pose_1 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="13.2216" cry="0" crx="0" crz="0" ry="0" y="81.0171" rz="90"/>
+   <Pose_2 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="12.2165" cry="0" crx="0" crz="0" ry="0" y="77.902" rz="90"/>
+   <Pose_3 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="11.2113" cry="0" crx="0" crz="0" ry="0" y="74.7869" rz="90"/>
+   <Pose_4 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="10.2062" cry="0" crx="0" crz="0" ry="0" y="71.6717" rz="90"/>
+   <Pose_5 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="9.20103" cry="0" crx="0" crz="0" ry="0" y="68.5566" rz="90"/>
+   <Pose_6 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="8.19588" cry="0" crx="0" crz="0" ry="0" y="65.4414" rz="90"/>
+   <Pose_7 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="7.19072" cry="0" crx="0" crz="0" ry="0" y="62.3263" rz="90"/>
+   <Pose_8 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="6.18557" cry="0" crx="0" crz="0" ry="0" y="59.2111" rz="90"/>
+   <Pose_9 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="5.18041" cry="0" crx="0" crz="0" ry="0" y="56.096" rz="90"/>
+   <Pose_10 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="4.17526" cry="0" crx="0" crz="0" ry="0" y="52.9808" rz="90"/>
+   <Pose_11 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="3.1701" cry="0" crx="0" crz="0" ry="0" y="49.8657" rz="90"/>
+   <Pose_12 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="2.16495" cry="0" crx="0" crz="0" ry="0" y="46.7505" rz="90"/>
+   <Pose_13 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="1.15979" cry="0" crx="0" crz="0" ry="0" y="43.6354" rz="90"/>
+   <Pose_14 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="0.154639" cry="0" crx="0" crz="0" ry="0" y="40.5202" rz="90"/>
+   <Pose_15 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-0.850515" cry="0" crx="0" crz="0" ry="0" y="37.4051" rz="90"/>
+   <Pose_16 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-1.85567" cry="0" crx="0" crz="0" ry="0" y="-34.2901" rz="90"/>
+   <Pose_17 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-2.86082" cry="0" crx="0" crz="0" ry="0" y="-37.4052" rz="90"/>
+   <Pose_18 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-3.86598" cry="0" crx="0" crz="0" ry="0" y="-40.5204" rz="90"/>
+   <Pose_19 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-4.87113" cry="0" crx="0" crz="0" ry="0" y="-43.6355" rz="90"/>
+   <Pose_20 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-5.87629" cry="0" crx="0" crz="0" ry="0" y="-46.7507" rz="90"/>
+   <Pose_21 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-6.88144" cry="0" crx="0" crz="0" ry="0" y="-49.8658" rz="90"/>
+   <Pose_22 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-7.8866" cry="0" crx="0" crz="0" ry="0" y="-52.981" rz="90"/>
+   <Pose_23 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-8.89175" cry="0" crx="0" crz="0" ry="0" y="-56.0961" rz="90"/>
+   <Pose_24 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-9.89691" cry="0" crx="0" crz="0" ry="0" y="-59.2113" rz="90"/>
+   <Pose_25 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-10.9021" cry="0" crx="0" crz="0" ry="0" y="-62.3264" rz="90"/>
+   <Pose_26 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-11.9072" cry="0" crx="0" crz="0" ry="0" y="-65.4416" rz="90"/>
+   <Pose_27 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-12.9124" cry="0" crx="0" crz="0" ry="0" y="-68.5567" rz="90"/>
+   <Pose_28 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-13.9175" cry="0" crx="0" crz="0" ry="0" y="-71.6719" rz="90"/>
+   <Pose_29 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-14.9227" cry="0" crx="0" crz="0" ry="0" y="-74.787" rz="90"/>
+   <Pose_30 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-15.9278" cry="0" crx="0" crz="0" ry="0" y="-77.9022" rz="90"/>
+   <Pose_31 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-16.933" cry="0" crx="0" crz="0" ry="0" y="-81.0173" rz="90"/>
+   <Pose_32 cz="0" cx="0" x="18.034" z="-2.526" rx="-90" cy="-17.8935" cry="0" crx="0" crz="0" ry="0" y="-91.0173" rz="90"/>
+  </Index_0>
+ </Trajectory_0>
+ 
+ <Model_1 RelativeToExePath="models/shin_hung project/2.3M Device base.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/2.3M Device base.IGS" RelativeToProjectPath="2.3M Device base.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="630.36" z="-275" rx="90" ry="0" y="630.33" rz="-180"/>
+ </Model_1>
+ <Model_2 RelativeToExePath="models/shin_hung project/KR22 Base.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/KR22 Base.IGS" RelativeToProjectPath="KR22 Base.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="0" z="0" rx="0" ry="0" y="0" rz="0"/>
+ </Model_2>
+ <Model_3 RelativeToExePath="models/shin_hung project/B-B-TYPE.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/B-B-TYPE.IGS" RelativeToProjectPath="B-B-TYPE.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="5.4" z="-271" rx="0" ry="0" y="1242.7" rz="-180"/>
+ </Model_3>
+ <Model_4 RelativeToExePath="models/shin_hung project/B-C TYPE.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/B-C TYPE.IGS" RelativeToProjectPath="B-C TYPE.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="1242.75" z="-270.6" rx="0.1" ry="-6.89673e-34" y="-5.4" rz="90"/>
+ </Model_4>
+ <Model_5 RelativeToExePath="models/shin_hung project/shing_hong Conveyor.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/shing_hong Conveyor.IGS" RelativeToProjectPath="shing_hong Conveyor.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="259.04" z="-500" rx="0" ry="0" y="-1238.93" rz="0"/>
+ </Model_5>
+ <Robot_System Name="KUKA ROBOT KR22" Dof="6">
+  <Gripper Name="Grip3075010"/>
+  <Controller Flage="0"/>
+ </Robot_System>
+ <Workpiece AbsolutePath="C:/Users/User/Desktop/MyEzSim/EzSim_ver1.4.7.12_withoutDongle/models/shing_hong project/3075010.035-.042_3.IGS" RelativeToExePath="models/shing_hong project/3075010.035-.042_3.IGS" RelativeToProjectPath="3075010.035-.042_3.IGS">
+  <Color g="0.972549" b="1" r="0.972549"/>
+  <Posture rz="0" x="0" z="0" ry="0" y="0" rx="0"/>
+ </Workpiece>
+</System_Information>

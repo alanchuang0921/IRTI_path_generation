@@ -1,0 +1,31 @@
+<?xml version = "1.4.7.12" encoding = "UTF-8"?>
+<System_Information Path_Count="0" Model_Count="5">
+ <Model_1 RelativeToExePath="models/shin_hung project/model/2.3M Device base.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/2.3M Device base.IGS" RelativeToProjectPath="../model/2.3M Device base.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="630.36" z="-275" rx="90" ry="0" y="630.33" rz="-180"/>
+ </Model_1>
+ <Model_2 RelativeToExePath="models/shin_hung project/model/KR22 Base.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/KR22 Base.IGS" RelativeToProjectPath="../model/KR22 Base.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="0" z="0" rx="0" ry="0" y="0" rz="0"/>
+ </Model_2>
+ <Model_3 RelativeToExePath="models/shin_hung project/model/B-B-TYPE.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/B-B-TYPE.IGS" RelativeToProjectPath="../model/B-B-TYPE.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="5.4" z="-271" rx="0" ry="0" y="1242.7" rz="-180"/>
+ </Model_3>
+ <Model_4 RelativeToExePath="models/shin_hung project/model/B-C TYPE.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/B-C TYPE.IGS" RelativeToProjectPath="../model/B-C TYPE.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="1242.75" z="-270.6" rx="0.1" ry="-6.89673e-34" y="-5.4" rz="90"/>
+ </Model_4>
+ <Model_5 RelativeToExePath="models/shin_hung project/model/shing_hong Conveyor.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/EZsim backup/shin_hung project/../../models/shin_hung project/shing_hong Conveyor.IGS" RelativeToProjectPath="../model/shing_hong Conveyor.IGS">
+  <Color g="0.705" b="0.117" r="0.94"/>
+  <Posture x="259.04" z="-500" rx="0" ry="0" y="-1238.93" rz="0"/>
+ </Model_5>
+ <Robot_System Name="KUKA ROBOT KR22" Dof="6">
+  <Gripper Name="Grip3075010"/>
+  <Controller Flage="0"/>
+ </Robot_System>
+ <Workpiece AbsolutePath="C:/Users/User/Desktop/MyEzSim/EzSim_ver1.4.7.12_withoutDongle/models/shing_hong project/model/3075010.035-.042_3.IGS" RelativeToExePath="models/shing_hong project/3075010.035-.042_3.IGS" RelativeToProjectPath="../model/3075010.035-.042_3.IGS">
+  <Color g="0.972549" b="1" r="0.972549"/>
+  <Posture rz="0" x="0" z="0" ry="0" y="0" rx="0"/>
+ </Workpiece>
+</System_Information>

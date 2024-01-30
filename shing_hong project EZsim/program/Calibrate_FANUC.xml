@@ -1,0 +1,90 @@
+<?xml version = "1.4.7.12" encoding = "UTF-8"?>
+<System_Information Path_Count="9" Model_Count="5">
+ <Trajectory_0 Index_Count="1" Name="W_Right">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="-90" y="765.458" ry="84.1994" z="847.503" rx="-180" cx="0" crx="0" cry="0" crz="0" x="234.868" cy="0"/>
+  </Index_0>
+ </Trajectory_0>
+ <Trajectory_1 Index_Count="1" Name="W_Left">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="0" y="763.358" ry="0" z="824.633" rx="-87.2246" cx="0" crx="0" cry="0" crz="0" x="-243.877" cy="0"/>
+  </Index_0>
+ </Trajectory_1>
+ <Trajectory_2 Index_Count="1" Name="B_Left">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="-90" y="240.827" ry="0" z="828.788" rx="-88.4096" cx="0" crx="0" cry="0" crz="0" x="787.508" cy="0"/>
+  </Index_0>
+ </Trajectory_2>
+ <Trajectory_3 Index_Count="1" Name="B_RightDown">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="90" y="-234.887" ry="0" z="708.112" rx="89.8592" cx="0" crx="0" cry="0" crz="0" x="703.232" cy="0"/>
+  </Index_0>
+ </Trajectory_3>
+ <Trajectory_4 Index_Count="1" Name="B_RightUp">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="-90" y="-234.828" ry="0" z="957.63" rx="-90.1" cx="0" crx="0" cry="0" crz="0" x="703.667" cy="0"/>
+  </Index_0>
+ </Trajectory_4>
+ <Trajectory_5 Index_Count="1" Name=" ">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="90" y="702.654" ry="-89.9106" z="853.329" rx="180" cx="0" crx="0" cry="0" crz="0" x="238.42" cy="0"/>
+  </Index_0>
+ </Trajectory_5>
+ <Trajectory_6 Index_Count="1" Name=" ">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="50" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="90" y="722.661" ry="89.4421" z="851.6" rx="-7.20554e-13" cx="0" crx="0" cry="0" crz="0" x="-246.699" cy="0"/>
+  </Index_0>
+ </Trajectory_6>
+ <Trajectory_7 Index_Count="1" Name=" ">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="0" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="-90" y="702.654" ry="89.8311" z="853.541" rx="-180" cx="0" crx="0" cry="0" crz="0" x="239.938" cy="0"/>
+  </Index_0>
+ </Trajectory_7>
+ <Trajectory_8 Index_Count="1" Name=" ">
+  <Contact_Point rz="0" y="0" ry="0" z="0" rx="0" reference="" x="0"/>
+  <Path_Param External_Axis_Angle="0" Cutter_Diameter="0" Engage_Length="30" Retract_Length="0" External_Axis_Num="0" Cutter_Depth="0"/>
+  <Index_0>
+   <Pose_0 cz="0" rz="90" y="722.658" ry="-89.5728" z="854.231" rx="180" cx="0" crx="0" cry="0" crz="0" x="-245.431" cy="0"/>
+  </Index_0>
+ </Trajectory_8>
+ <Model_1 RelativeToProjectPath="../model/2.3M Device base.IGS" RelativeToExePath="models/shing_hong project/model/2.3M Device base.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/models/shing_hong project/program/../model/2.3M Device base.IGS">
+  <Color r="0.94" b="0.117" g="0.705"/>
+  <Posture rz="-180" y="630.33" ry="0" z="-275" rx="90" x="630.36"/>
+ </Model_1>
+ <Model_2 RelativeToProjectPath="../model/KR22 Base.IGS" RelativeToExePath="models/shing_hong project/model/KR22 Base.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/models/shing_hong project/program/../model/KR22 Base.IGS">
+  <Color r="0.94" b="0.117" g="0.705"/>
+  <Posture rz="0" y="0" ry="0" z="0" rx="0" x="0"/>
+ </Model_2>
+ <Model_3 RelativeToProjectPath="../model/CL_Grinder_B-BType_1123.IGS" RelativeToExePath="models/shing_hong project/model/CL_Grinder_B-BType_1123.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/models/shing_hong project/program/../model/CL_Grinder_B-BType_1123.IGS">
+  <Color r="0.933333" b="0.933333" g="0.933333"/>
+  <Posture rz="-180" y="1242.7" ry="0" z="-271" rx="0" x="5.4"/>
+ </Model_3>
+ <Model_4 RelativeToProjectPath="../model/B-C TYPE.IGS" RelativeToExePath="models/shing_hong project/model/B-C TYPE.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/models/shing_hong project/program/../model/B-C TYPE.IGS">
+  <Color r="0" b="1" g="0.666667"/>
+  <Posture rz="90" y="-5.4" ry="-6.89673e-34" z="-270.6" rx="0.1" x="1242.75"/>
+ </Model_4>
+ <Model_5 RelativeToProjectPath="../model/shing_hong Conveyor.IGS" RelativeToExePath="models/shing_hong project/model/shing_hong Conveyor.IGS" AbsolutePath="C:/Users/user/Desktop/EzSim_ver(new)/models/shing_hong project/program/../model/shing_hong Conveyor.IGS">
+  <Color r="0.94" b="0.117" g="0.705"/>
+  <Posture rz="0" y="-1238.93" ry="0" z="-500" rx="0" x="259.04"/>
+ </Model_5>
+ <Robot_System Dof="6" Name="KUKA ROBOT KR22">
+  <Gripper Name="GripD0920"/>
+  <Controller Flage="0"/>
+ </Robot_System>
+</System_Information>
