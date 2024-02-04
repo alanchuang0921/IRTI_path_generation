@@ -1,17 +1,22 @@
-# import open3d as o3d
-
-# mesh = o3d.io.read_triangle_mesh("D0920.IGS")
-
-# o3d.visualization.draw_geometries([mesh])
-
 import pyiges
 
-print(dir(pyiges))
-print(pyiges.__builtins__)
+# print(dir(pyiges))
+# print(pyiges.__builtins__)
 
-iges = pyiges.Iges(r"C:\NTHU\IRTI-Project\D0920.IGS")
-
+# 讀取檔案
+iges = pyiges.Iges(r"C:\NTHU\IRTI-Project\shing_hong project EZsim\model\3075010.035-.042_3.IGS")
 print(iges)
 
-mesh = iges.bspline_surfaces(as_vtk=True, merge=True)
-mesh.plot()
+# 使用 bspline 的方式畫出來
+# mesh = iges.bspline_surfaces(as_vtk=True, merge=True)
+# mesh.plot()
+
+# lines = iges.to_vtk(surfaces=False)
+# print(lines)
+
+mesh = iges.to_vtk(bsplines=False, surfaces=True, merge=True, delta=0.05)
+mesh.plot(color='w', smooth_shading=True)
+
+# point = iges.points(as_vtk=True, merge=True)
+# print(type(point))
+# print(point)
