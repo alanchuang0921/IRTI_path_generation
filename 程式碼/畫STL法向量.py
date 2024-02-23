@@ -2,7 +2,7 @@ import open3d as o3d
 import numpy as np
 
 # 讀取 STL 檔案
-mesh = o3d.io.read_triangle_mesh(r"C:\NTHU\IRTI-Project\test.stl")
+mesh = o3d.io.read_triangle_mesh(r"C:\Users\Martin\IRTI-Project\test.stl")
 
 # 計算網格頂點的法向量
 # mesh.compute_vertex_normals()

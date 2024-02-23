@@ -4,7 +4,7 @@ import pyiges
 # print(pyiges.__builtins__)
 
 # 讀取檔案
-iges = pyiges.Iges(r"C:\NTHU\IRTI-Project\shing_hong project EZsim\model\3075010.035-.042_3.IGS")
+iges = pyiges.Iges(r"C:\Users\Martin\IRTI-Project\shing_hong project EZsim\model\2.3M Device base.IGS")
 print(iges)
 
 # 使用 bspline 的方式畫出來

@@ -1,0 +1,9 @@
+python-OCC：
+
+1. conda create -n pyoccenv python=3.8
+
+2. activate pyoccenv
+
+3. conda install -c conda-forge pythonocc-core
+
+4.點右下角 選環境
