@@ -2,7 +2,7 @@ python-OCC：
 
 1. conda create -n pyoccenv python=3.8
 
-2. activate pyoccenv
+2. conda activate pyoccenv
 
 3. conda install -c conda-forge pythonocc-core
 

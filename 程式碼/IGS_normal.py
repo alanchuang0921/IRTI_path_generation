@@ -70,7 +70,7 @@ fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
 
 # 檔案路徑
-file_path = r"C:\NTHU\IRTI-Project\my_cylinder.igs"
+file_path = r"C:\NTHU\IRTI-Project\simple_1.IGS"
 
 # 確認路徑是否存在
 if not os.path.exists(file_path):
